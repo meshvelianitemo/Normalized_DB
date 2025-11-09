@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Normalized SQL Database
 
 This project demonstrates **relational database normalization** up to the **Third Normal Form (3NF)**.  
@@ -48,3 +49,7 @@ The database follows normalization from:
 ---
 ## Example Queries
 - See `queries.sql` for sample JOINs demonstrating the relationships
+=======
+# Normalized_DB
+A normalized SQL Server database model built to demonstrate relational design principles (1NF–3NF). Includes: - schema.sql → creates database and normalized tables - seed_data.sql → inserts sample data for testing - README.txt → explains setup and relationships
+>>>>>>> db75352282880fed6457bbc6993cb0a7d6d32dae
